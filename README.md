@@ -1,2 +1,2 @@
 # Test
-Learning Git
+Learning Git - Kiran Katuri
